@@ -1,0 +1,24 @@
+'npm create vit' es el equivalente al comando 'create-react-ap'.
+
+Hay que usar 'npm install' para qeu aparezca la carpeta node modules con las dependencias que vamos a instalar.
+
+'npm run dev' es para correr el servidor (equivalente a 'npm start'), lo abre en el puerto 5173.
+
+'npm run build' crea la carpeta dist con el codigo convertido para luego subirlo.
+
+'rfce' viene de una extención instalada, es un atajo para crear componentes:
+import React from 'react'
+
+function App() {
+  return (
+    <div>App</div>
+  )
+}
+
+export default App
+
+
+otro compando shorthand:
+'imp' para importar
+
+'clg' console.log()
