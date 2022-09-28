@@ -1,6 +1,6 @@
 'npm create vit' es el equivalente al comando 'create-react-ap'.
 
-Hay que usar 'npm install' para qeu aparezca la carpeta node modules con las dependencias que vamos a instalar.
+Hay que usar 'npm install' para que aparezca la carpeta node modules con las dependencias que vamos a instalar.
 
 'npm run dev' es para correr el servidor (equivalente a 'npm start'), lo abre en el puerto 5173.
 
